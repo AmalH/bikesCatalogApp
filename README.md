@@ -11,21 +11,21 @@ This project is a simple flutter app that displays a filterable and sortable lis
 
 #### Sort and Filter features:
 <p align="center">
-<img src="https://raw.githubusercontent.com/AmalH/bikeCatalogApp/master/screenshots/sortFilterFeatures.gif" alt="sortFilterFeatures" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/AmalH/bikesCatalogApp/master/screenshots/sortFilterFeatures.gif" alt="sortFilterFeatures" width="300" height="600"/>
 </p>
 
-![sortFilterUI](https://raw.githubusercontent.com/AmalH/bikeCatalogApp/master/screenshots/sortFilterUI.png)
+![sortFilterUI](https://raw.githubusercontent.com/AmalH/bikesCatalogApp/master/screenshots/sortFilterUI.png)
 
 
 
 #### List item details UI:
 <p align="center">
-<img src="https://raw.githubusercontent.com/AmalH/bikeCatalogApp/master/screenshots/listItemDetails.gif" alt="listItemDetails" width="300" height="600"/>
+<img src="https://raw.githubusercontent.com/AmalH/bikesCatalogApp/master/screenshots/listItemDetails.gif" alt="listItemDetails" width="300" height="600"/>
 </p>
 
-![bikeDetailsUI](https://raw.githubusercontent.com/AmalH/bikeCatalogApp/master/screenshots/bikeDetailsUI.png)
+![bikeDetailsUI](https://raw.githubusercontent.com/AmalH/bikesCatalogApp/master/screenshots/bikeDetailsUI.png)
 
 
 
 #### Main UI:
-![bikesListUI](https://raw.githubusercontent.com/AmalH/bikeCatalogApp/master/screenshots/mainUI.png)
+![bikesListUI](https://raw.githubusercontent.com/AmalH/bikesCatalogApp/master/screenshots/mainUI.png)
